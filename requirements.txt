@@ -1,0 +1,10 @@
+# Libraries to install
+# Use `pip freeze` to check what you have installed and the libraries here
+
+# pandas
+# numpy
+# scikit-learn
+# scipy
+# statsmodels
+# matplotlib
+pycodestyle

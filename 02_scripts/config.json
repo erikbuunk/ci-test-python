@@ -1,0 +1,7 @@
+{
+    "project_dir": "/Users/erik/Documents/Computer/GitHub/dataroom-python",
+    "data_dir" : "01_data",
+    "scripts_dir" : "02_scripts",
+    "results_dir" : "03_results",
+    "publ_dir" : "04_publication"
+}
