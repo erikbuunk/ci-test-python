@@ -1,5 +1,6 @@
 def main():
     print("added a line")
+    print("added a line")
     print("Successfull!")
 
 
