@@ -1,5 +1,7 @@
 # dataroom-python
 
+[![Build Status](https://app.travis-ci.com/erikbuunk/ci-test-python.svg?branch=main)](https://app.travis-ci.com/erikbuunk/ci-test-python)
+
 This Python framework is based ont the original Stata setup for the data room.
 
 ## Instructions
