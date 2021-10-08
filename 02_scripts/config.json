@@ -1,5 +1,6 @@
+// "/Users/erik/Documents/Computer/GitHub/dataroom-python",
 {
-    "project_dir": "/Users/erik/Documents/Computer/GitHub/dataroom-python",
+    "project_dir": "/home/travis/build/erikbuunk/ci-test-python/02_scripts",
     "data_dir" : "01_data",
     "scripts_dir" : "02_scripts",
     "results_dir" : "03_results",
